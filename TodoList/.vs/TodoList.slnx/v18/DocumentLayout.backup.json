@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{932C3EA7-6B69-46E9-B365-4DFE2BBDBD67}|Calculator\\Calculator.csproj|c:\\users\\haley\\desktop\\c--masterclass\\todolist\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932C3EA7-6B69-46E9-B365-4DFE2BBDBD67}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CD40A2D-545E-C111-D437-1BE9E9C2C98C}|TodoList\\TodoList.csproj|c:\\users\\haley\\desktop\\c--masterclass\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CD40A2D-545E-C111-D437-1BE9E9C2C98C}|TodoList\\TodoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\Calculator\\Program.cs*",
+              "RelativeToolTip": "Calculator\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:46:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\TodoList\\Program.cs",
               "RelativeDocumentMoniker": "TodoList\\Program.cs",
-              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\TodoList\\Program.cs*",
-              "RelativeToolTip": "TodoList\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\TodoList\\Program.cs",
+              "RelativeToolTip": "TodoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T19:51:12.301Z",
               "EditorCaption": ""
