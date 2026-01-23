@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\If else conditional statement - Coding exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF692FE-4D4B-4099-947B-EEF9D34D05BC}|If else conditional statement - Coding exercise\\If else conditional statement - Coding exercise.csproj|c:\\users\\haley\\desktop\\c--masterclass\\if else conditional statement - coding exercise\\if else conditional statement - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF692FE-4D4B-4099-947B-EEF9D34D05BC}|If else conditional statement - Coding exercise\\If else conditional statement - Coding exercise.csproj|solutionrelative:if else conditional statement - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\If else conditional statement - Coding exercise\\If else conditional statement - Coding exercise\\Program.cs",
+              "RelativeDocumentMoniker": "If else conditional statement - Coding exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\If else conditional statement - Coding exercise\\If else conditional statement - Coding exercise\\Program.cs",
+              "RelativeToolTip": "If else conditional statement - Coding exercise\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:28:51.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
