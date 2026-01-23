@@ -8,26 +8,24 @@ Console.WriteLine("[E]xit");
 
 //reads line from console and stores it in userInput variable
 var userInput = Console.ReadLine();
-
-if (userInput.Length == 0)
+if (userInput == "S" || userInput == "s")
 {
-    Console.WriteLine("Empty choice!");
-    int number = 5;
-    //Console.WriteLine(number);
-    //var word = "ABC"; 
-    //if (word.Length > 0)
-    //{
-    //    //var number = 10; - error: variable with this name already exists in scope
-    //    Console.WriteLine(number);
-    //    Console.WriteLine(userInput);
-    //}
+    PrintSelectedOption("See all TODOs");
 }
-else
+else if (userInput == "A" || userInput == "a")
 {
-    int number = 10; //works because "number" variable exists only in a different scope
-    Console.WriteLine("Non-empty choice: " + userInput);
-    // Console.WriteLine(number); - error: out of scope
+    PrintSelectedOption("Add a TODO");
 }
-Console.WriteLine("Your choice is: " + userInput);
-//Console.WriteLine(number); - error: out of scope
+else if (userInput == "R" || userInput == "r")
+{
+    PrintSelectedOption("Remove a TODO");
+}
+else if (userInput == "E" || userInput == "e")
+{
+    PrintSelectedOption("Exit");
+}
     Console.ReadKey(); //preventing window from closing immediately
+void PrintSelectedOption(string selectedOption)
+{
+    Console.WriteLine("Selected option: " + selectedOption);
+}
