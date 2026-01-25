@@ -1,8 +1,4 @@
 ﻿using System.ComponentModel.Design;
-Console.WriteLine("Provide a number.");
-string userInput = Console.ReadLine();
-int number = int.Parse(userInput);
-Console.WriteLine(number);
 //Console.WriteLine("Hello, World!");
 //Console.WriteLine("[S]ee all TODOs]");
 //Console.WriteLine("[A]dd a TODO");
@@ -11,6 +7,14 @@ Console.WriteLine(number);
 
 ////reads line from console and stores it in userInput variable
 //var userInput = Console.ReadLine();
+int a = 4, b = 2, c = 10;
+Console.WriteLine("First is: " + a + ", second is: " + b + ", third is: " + c);
+
+//string interpolation
+Console.WriteLine($"First is: {a}, second is: {b}, third is: {c}");
+
+//adding an expression
+Console.WriteLine($"Sum is: {a + b + c}, second is: {b}, third is: {c}");
 
 //if (userInput == "S" || userInput == "s")
 //{
