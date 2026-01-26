@@ -1,14 +1,15 @@
-﻿var number = 0;
-var word = "abc";
-word += "d";
-while (number <10)
+﻿Console.WriteLine("Enter a word:");
+var userInput = Console.ReadLine();
+
+while(userInput.Length < 15)
 {
-    //number = number + 1;
-    //number *= 2; //infinite loop, multiplying by 0*2
-    number++;
-    Console.WriteLine("Number is: " + number);
+    userInput += 'a';
+
+    Console.WriteLine(userInput);
 }
-Console.WriteLine("The loop is finished.");
+
+
+
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
