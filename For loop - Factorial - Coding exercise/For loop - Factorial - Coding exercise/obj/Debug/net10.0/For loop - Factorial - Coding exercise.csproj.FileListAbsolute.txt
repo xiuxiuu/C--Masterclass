@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\bin\Debug\net10.0\For loop - Factorial - Coding exercise.exe
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\bin\Debug\net10.0\For loop - Factorial - Coding exercise.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\bin\Debug\net10.0\For loop - Factorial - Coding exercise.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\bin\Debug\net10.0\For loop - Factorial - Coding exercise.dll
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\bin\Debug\net10.0\For loop - Factorial - Coding exercise.pdb
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.dll
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\refint\For loop - Factorial - Coding exercise.dll
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.pdb
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\For loop - Factorial - Coding exercise.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\For loop - Factorial - Coding exercise\For loop - Factorial - Coding exercise\obj\Debug\net10.0\ref\For loop - Factorial - Coding exercise.dll
