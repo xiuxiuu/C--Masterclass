@@ -1,29 +1,13 @@
-﻿//for (var i = 0; i < 20; i++)
-//{
-//    if (i % 3 == 0)
-//    {
-//        continue; //skips the iteration when i is multiple of 3
-//    }
-//    Console.WriteLine("i is: " + i);
-//}
-
-int userNumber;
-do
+﻿for (int i = 0; i < 4; i++)
 {
-    Console.WriteLine("Enter a number larger than 10:");
-    var userInput = Console.ReadLine();
-    if (userInput == "stop")
+    for (int j = 0; j < 3; j++)
     {
-        break;
+        for (int k = 0; k < 5; k++) {
+        Console.WriteLine($"i: {i}, j: {j}, k: {k}");
+        }
     }
-    bool isParsableToInt = userInput.All(char.IsDigit);
-    if(!isParsableToInt)
-    {
-        userNumber = 0;
-        continue;
-    }
-    userNumber = int.Parse(userInput);
-} while (userNumber <= 10);
+}
+
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
