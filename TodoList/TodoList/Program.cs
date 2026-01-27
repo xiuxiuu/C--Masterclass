@@ -1,11 +1,12 @@
-﻿//for (var i = 0; i < 100; i++)
+﻿//for (var i = 0; i < 20; i++)
 //{
-//    Console.WriteLine("i is:  "+ i);
-//    if (i > 25)
+//    if (i % 3 == 0)
 //    {
-//        break;
+//        continue; //skips the iteration when i is multiple of 3
 //    }
+//    Console.WriteLine("i is: " + i);
 //}
+
 int userNumber;
 do
 {
@@ -14,6 +15,12 @@ do
     if (userInput == "stop")
     {
         break;
+    }
+    bool isParsableToInt = userInput.All(char.IsDigit);
+    if(!isParsableToInt)
+    {
+        userNumber = 0;
+        continue;
     }
     userNumber = int.Parse(userInput);
 } while (userNumber <= 10);
