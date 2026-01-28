@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\bin\Debug\net10.0\Lecture 59 - out keyword.exe
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\bin\Debug\net10.0\Lecture 59 - out keyword.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\bin\Debug\net10.0\Lecture 59 - out keyword.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\bin\Debug\net10.0\Lecture 59 - out keyword.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\bin\Debug\net10.0\Lecture 59 - out keyword.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\refint\Lecture 59 - out keyword.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\Lecture 59 - out keyword.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 59 - out keyword\Lecture 59 - out keyword\obj\Debug\net10.0\ref\Lecture 59 - out keyword.dll

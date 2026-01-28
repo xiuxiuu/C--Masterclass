@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\c# Masterclass Lecture Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B13687-94DB-4B8A-B2B2-CBC4813E9A9A}|c# Masterclass Lecture Template\\c# Masterclass Lecture Template.csproj|c:\\users\\haley\\desktop\\c--masterclass\\c# masterclass lecture template\\c# masterclass lecture template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B13687-94DB-4B8A-B2B2-CBC4813E9A9A}|c# Masterclass Lecture Template\\c# Masterclass Lecture Template.csproj|solutionrelative:c# masterclass lecture template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\c# Masterclass Lecture Template\\c# Masterclass Lecture Template\\Program.cs",
+              "RelativeDocumentMoniker": "c# Masterclass Lecture Template\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\c# Masterclass Lecture Template\\c# Masterclass Lecture Template\\Program.cs",
+              "RelativeToolTip": "c# Masterclass Lecture Template\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:38:23.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
