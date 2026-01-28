@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\bin\Debug\net10.0\Lecture 60 - TryParse Method.exe
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\bin\Debug\net10.0\Lecture 60 - TryParse Method.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\bin\Debug\net10.0\Lecture 60 - TryParse Method.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\bin\Debug\net10.0\Lecture 60 - TryParse Method.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\bin\Debug\net10.0\Lecture 60 - TryParse Method.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\refint\Lecture 60 - TryParse Method.dll
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\Lecture 60 - TryParse Method.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\Lecture 60 - TryParse Method\Lecture 60 - TryParse Method\obj\Debug\net10.0\ref\Lecture 60 - TryParse Method.dll
