@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Multi-dimensional arrays - FindMax - Coding exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A29A4C-492A-4160-844D-CE0B669DEC24}|Multi-dimensional arrays - FindMax - Coding exercise\\Multi-dimensional arrays - FindMax - Coding exercise.csproj|c:\\users\\haley\\desktop\\c--masterclass\\multi-dimensional arrays - findmax - coding exercise\\multi-dimensional arrays - findmax - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A29A4C-492A-4160-844D-CE0B669DEC24}|Multi-dimensional arrays - FindMax - Coding exercise\\Multi-dimensional arrays - FindMax - Coding exercise.csproj|solutionrelative:multi-dimensional arrays - findmax - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Multi-dimensional arrays - FindMax - Coding exercise\\Multi-dimensional arrays - FindMax - Coding exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Multi-dimensional arrays - FindMax - Coding exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Multi-dimensional arrays - FindMax - Coding exercise\\Multi-dimensional arrays - FindMax - Coding exercise\\Program.cs",
+              "RelativeToolTip": "Multi-dimensional arrays - FindMax - Coding exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:09:37.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
