@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\HotelBooking class - Coding exercise 15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE56469C-6D87-4FCA-9F1A-9DF69A1A6581}|HotelBooking class - Coding exercise 15\\HotelBooking class - Coding exercise 15.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\hotelbooking class - coding exercise 15\\hotelbooking class - coding exercise 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE56469C-6D87-4FCA-9F1A-9DF69A1A6581}|HotelBooking class - Coding exercise 15\\HotelBooking class - Coding exercise 15.csproj|solutionrelative:hotelbooking class - coding exercise 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\HotelBooking class - Coding exercise 15\\HotelBooking class - Coding exercise 15\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBooking class - Coding exercise 15\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\HotelBooking class - Coding exercise 15\\HotelBooking class - Coding exercise 15\\Program.cs",
+              "RelativeToolTip": "HotelBooking class - Coding exercise 15\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:51:32.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
