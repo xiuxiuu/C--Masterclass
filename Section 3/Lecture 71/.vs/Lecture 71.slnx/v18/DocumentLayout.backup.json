@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 71\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0DAC7CA-A178-4BC8-84FB-58EFD0022C31}|Lecture 71\\Lecture 71.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\lecture 71\\lecture 71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DAC7CA-A178-4BC8-84FB-58EFD0022C31}|Lecture 71\\Lecture 71.csproj|solutionrelative:lecture 71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6639C712-1DE4-7213-5F20-82015D85C802}|Lecture 71\\Lecture 71.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\lecture 71\\lecture 71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6639C712-1DE4-7213-5F20-82015D85C802}|Lecture 71\\Lecture 71.csproj|solutionrelative:lecture 71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 71\\Lecture 71\\Program.cs",
               "RelativeDocumentMoniker": "Lecture 71\\Program.cs",
-              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 71\\Lecture 71\\Program.cs",
-              "RelativeToolTip": "Lecture 71\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 71\\Lecture 71\\Program.cs*",
+              "RelativeToolTip": "Lecture 71\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T21:22:48.081Z",
               "EditorCaption": ""
