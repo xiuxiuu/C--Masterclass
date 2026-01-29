@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InstructorsVersion.cs",
-              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
-              "RelativeDocumentMoniker": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
-              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
-              "RelativeToolTip": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T21:20:41.219Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Assignment - Todo List\\MyVersion.cs",
               "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List\\MyVersion.cs",
               "RelativeToolTip": "Assignment - Todo List\\MyVersion.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwGsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T17:17:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorsVersion.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "RelativeDocumentMoniker": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "RelativeToolTip": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T21:20:41.219Z",
               "EditorCaption": ""
             }
           ]

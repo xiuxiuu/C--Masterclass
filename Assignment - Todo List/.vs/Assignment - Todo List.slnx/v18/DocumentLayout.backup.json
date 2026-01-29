@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A33FEF2-4A73-638F-92A8-40CEE3C11BDE}|Assignment - Todo List\\Assignment - Todo List.csproj|c:\\users\\haley\\desktop\\c--masterclass\\assignment - todo list\\assignment - todo list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A33FEF2-4A73-638F-92A8-40CEE3C11BDE}|Assignment - Todo List\\Assignment - Todo List.csproj|solutionrelative:assignment - todo list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A33FEF2-4A73-638F-92A8-40CEE3C11BDE}|Assignment - Todo List\\Assignment - Todo List.csproj|c:\\users\\haley\\desktop\\c--masterclass\\assignment - todo list\\assignment - todo list\\myversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A33FEF2-4A73-638F-92A8-40CEE3C11BDE}|Assignment - Todo List\\Assignment - Todo List.csproj|solutionrelative:assignment - todo list\\myversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CD54D2-061B-42FB-9144-EC88F2F068FE}|Assignment - Todo List - Instructor\u0027s version\\Assignment - Todo List - Instructor\u0027s version.csproj|c:\\users\\haley\\desktop\\c--masterclass\\assignment - todo list\\assignment - todo list - instructor\u0027s version\\instructorsversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CD54D2-061B-42FB-9144-EC88F2F068FE}|Assignment - Todo List - Instructor\u0027s version\\Assignment - Todo List - Instructor\u0027s version.csproj|solutionrelative:assignment - todo list - instructor\u0027s version\\instructorsversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorsVersion.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "RelativeDocumentMoniker": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "RelativeToolTip": "Assignment - Todo List - Instructor\u0027s version\\InstructorsVersion.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T21:20:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment - Todo List\\Program.cs",
-              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List\\Program.cs",
-              "RelativeToolTip": "Assignment - Todo List\\Program.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAiwNYAAAAAAAAAAAAAAA==",
+              "Title": "MyVersion.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List\\MyVersion.cs",
+              "RelativeDocumentMoniker": "Assignment - Todo List\\MyVersion.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Assignment - Todo List\\Assignment - Todo List\\MyVersion.cs*",
+              "RelativeToolTip": "Assignment - Todo List\\MyVersion.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T17:17:08.919Z",
               "EditorCaption": ""
