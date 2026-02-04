@@ -21,7 +21,18 @@ class MedicalAppointment
         _patientName = patientName;
         _date = date;
     }
-
+    //call one constructor from another using the "this" keyword
+    //in this case, it avoids code duplication as the constructors do essentially the same thing, only one has a fixed value of 7 added days
+    public MedicalAppointment(string patientName) : this(patientName, 7)
+    {
+        //_patientName = patientName;
+        //_date = DateTime.Now.AddDays(7);
+    }
+    public MedicalAppointment(string patientName, int daysFromNow)
+    {
+        _patientName = patientName;
+        _date = DateTime.Now.AddDays(daysFromNow);
+    }
     public void Reschedule(DateTime date)
     {
         _date = date;
