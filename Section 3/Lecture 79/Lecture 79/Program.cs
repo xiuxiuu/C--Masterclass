@@ -13,17 +13,22 @@ Console.WriteLine($"Circumference is: {rectangle2.CalculateCircumference}");
 Console.ReadKey();
 class Rectangle
 {
-    public int Width;
-    public int Height;
+    //value of const must be known at compile time, can't be declared in constructor
+    const int NumberOfSides = 4;
+    //readonly fields can be set in the constructor but cannot be changed outside of class declaration or constructor
+    readonly int NumberOfSidesReadonly;
+    public readonly int Width;
+    public readonly int Height;
 
     public Rectangle(int width, int height)
     {
+        NumberOfSidesReadonly = 4;
         Width = GetLengthOrDefault(width, nameof(Width));
         Height = GetLengthOrDefault(height, nameof(Height));
     }
     private int GetLengthOrDefault(int length, string name)
     {
-        int defaultValueIfNonPositive = 1;
+        const int defaultValueIfNonPositive = 1;
         if (length <= 0)
         {
             Console.WriteLine($"{name} must be a positive number.");
