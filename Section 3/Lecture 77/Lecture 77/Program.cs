@@ -15,20 +15,23 @@ class MedicalAppointmentPrinter
 }
 class MedicalAppointment
 {
-    private string patientName;
+    private string _patientName;
     private DateTime _date;
 
     public MedicalAppointment(string patientName, DateTime date)
     {
-        this.patientName = patientName;
+        this._patientName = patientName;
         _date = date;
     }
 
     public DateTime GetDate() => _date;
-    public MedicalAppointment(string patientName) : this(patientName, 7)
-    {
-    }
-    public MedicalAppointment(string patientName, int daysFromNow)
+    //public MedicalAppointment(string patientName) : this(patientName, 7)
+    //{
+    //}
+
+    //optional parameters
+
+    public MedicalAppointment(string patientName = "Unknown", int daysFromNow = 7)
     {
         _patientName = patientName;
         _date = DateTime.Now.AddDays(daysFromNow);

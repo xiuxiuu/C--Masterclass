@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 79\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82EBD6-6D85-44AE-90D3-3F810BC45C19}|Lecture 79\\Lecture 79.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\lecture 79\\lecture 79\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82EBD6-6D85-44AE-90D3-3F810BC45C19}|Lecture 79\\Lecture 79.csproj|solutionrelative:lecture 79\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 79\\Lecture 79\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture 79\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 79\\Lecture 79\\Program.cs",
+              "RelativeToolTip": "Lecture 79\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:09:32.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
