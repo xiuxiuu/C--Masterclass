@@ -5,12 +5,39 @@ Console.WriteLine($"Area is: {rectangle1.CalculateArea()}");
 Console.WriteLine($"Circumference is: {rectangle1.CalculateCircumference}");
 
 var rectangle2 = new Rectangle(2, 3);
+
+Console.WriteLine(Rectangle.DescribeGenerally());
+//Console.WriteLine(rectangle1.DescribeGenerally());
+//Console.WriteLine("Number of sides is " + rectangle1.NumberOfSides);
+Console.WriteLine("Number of sides is " + Rectangle.NumberOfSides);
 Console.WriteLine($"Width is: {rectangle2.Width}");
 Console.WriteLine($"Height is: {rectangle2.GetHeight()}");
 Console.WriteLine($"Area is: {rectangle2.CalculateArea}");
 Console.WriteLine($"Circumference is: {rectangle2.CalculateCircumference}");
 
+//var calculator = new Calculator();
+Console.WriteLine($"1 + 2 is {Calculator.Add(1, 2)}");
+//Console.WriteLine($" 1 - 2 is {calculator.Subtract(1, 2)}");
+//Console.WriteLine($"1 * 2 is {calculator.Multiply(1, 2)}");
+Console.WriteLine($" 1 - 2 is {Calculator.Subtract(1, 2)}");
+Console.WriteLine($"1 * 2 is {Calculator.Multiply(1, 2)}");
+
 Console.ReadKey();
+
+//stateless (has no state)
+//static methods belong to a class as a whole, not to a specific instance
+    //can't use the instance data (values of fields returned by properties)
+//a static class cannot be instantiated; it only works as a container for methods
+//static classes can only contain static methods
+static class Calculator
+{
+    public static int Add(int a, int b) => a + b;
+    public static int Subtract(int a, int b) => a - b;
+    public static int Multiply(int a, int b) => a * b;
+}
+
+//stateful (has state - fields)
+//non-static classes can contain static methods
 class Rectangle
 {
 
@@ -44,7 +71,11 @@ class Rectangle
     }
     public int CalculateArea() => Width * _height;
     public int CalculateCircumference() => 2 * (Width + _height);
-
-    //computed properties, should never be performance-heavy
     public string Description => $"A rectangle with width {Width} and height {_height}";
+
+    //if a private method doesn't use instance data, make it static
+    public static string DescribeGenerally() => $"A plane figure with four straight sides and four right angles.";
+
+    //the value is const, always will be the same for all instances of the class. all const fields are implicitly static
+    public const int NumberOfSides = 4;
 }
