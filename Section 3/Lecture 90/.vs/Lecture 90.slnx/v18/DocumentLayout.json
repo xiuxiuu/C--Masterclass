@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 90\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{94679BB3-6477-6549-4E25-D6F6FF58AF67}|Lecture 90\\Lecture 90.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\lecture 90\\lecture 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94679BB3-6477-6549-4E25-D6F6FF58AF67}|Lecture 90\\Lecture 90.csproj|solutionrelative:lecture 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{1BDFEA7A-5DEF-42CD-A9BA-D42ECA87E1C4}|Lecture 90\\Lecture 90.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\lecture 90\\lecture 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDFEA7A-5DEF-42CD-A9BA-D42ECA87E1C4}|Lecture 90\\Lecture 90.csproj|solutionrelative:lecture 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> ba3ac23 (Lecture 90 - SRP Intro)
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +29,11 @@
               "RelativeDocumentMoniker": "Lecture 90\\Program.cs",
               "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 90\\Lecture 90\\Program.cs",
               "RelativeToolTip": "Lecture 90\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABoAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBMAAAAcAAAAAAAAAA==",
+>>>>>>> ba3ac23 (Lecture 90 - SRP Intro)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T19:17:50.475Z",
               "EditorCaption": ""

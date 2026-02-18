@@ -23,9 +23,25 @@ Console.WriteLine(names.Format());
 
 Console.ReadLine();
 
+<<<<<<< HEAD
 class NamesValidator
 {
     public bool IsValid(string name)
+=======
+public class Names
+{
+    private readonly List<string> _names = new List<string>();
+
+    public void AddName(string name)
+    {
+        if (IsValidName(name))
+        {
+            _names.Add(name);
+        }
+    }
+
+    private bool IsValidName(string name)
+>>>>>>> ba3ac23 (Lecture 90 - SRP Intro)
     {
         return
             name.Length >= 2 &&
@@ -33,6 +49,7 @@ class NamesValidator
             char.IsUpper(name[0]) &&
             name.All(char.IsLetter);
     }
+<<<<<<< HEAD
 }
 
 class StringsTextualRepository
@@ -59,6 +76,22 @@ public class Names
             _names.Add(name);
         }
     }
+=======
+
+    public void ReadFromTextFile()
+    {
+        var fileContents = File.ReadAllText(BuildFilePath());
+        var namesFromFile = fileContents.Split(Environment.NewLine).ToList();
+        foreach (var name in namesFromFile)
+        {
+            AddName(name);
+        }
+    }
+
+    public void WriteToTextFile() =>
+        File.WriteAllText(BuildFilePath(), Format());
+
+>>>>>>> ba3ac23 (Lecture 90 - SRP Intro)
     public string BuildFilePath()
     {
         //we could imagine this is much more complicated

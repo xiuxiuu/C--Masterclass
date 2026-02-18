@@ -22,8 +22,13 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 90\\Lecture 90\\Program.cs",
               "RelativeDocumentMoniker": "Lecture 90\\Program.cs",
+<<<<<<< HEAD
               "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 90\\Lecture 90\\Program.cs",
               "RelativeToolTip": "Lecture 90\\Program.cs",
+=======
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Lecture 90\\Lecture 90\\Program.cs*",
+              "RelativeToolTip": "Lecture 90\\Program.cs*",
+>>>>>>> ba3ac23 (Lecture 90 - SRP Intro)
               "ViewState": "AgIAACoAAAAAAAAAAAAYwBMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T19:17:50.475Z",
