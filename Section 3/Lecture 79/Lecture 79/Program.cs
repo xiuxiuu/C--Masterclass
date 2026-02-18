@@ -22,6 +22,8 @@ Console.WriteLine($"1 + 2 is {Calculator.Add(1, 2)}");
 Console.WriteLine($" 1 - 2 is {Calculator.Subtract(1, 2)}");
 Console.WriteLine($"1 * 2 is {Calculator.Multiply(1, 2)}");
 
+Console.WriteLine("Count of Rectangle objects is " + Rectangle.CountOfInstances);
+
 Console.ReadKey();
 
 //stateless (has no state)
@@ -40,11 +42,20 @@ static class Calculator
 //non-static classes can contain static methods
 class Rectangle
 {
+    public static int CountOfInstances { get; private set; }
+
+    private static DateTime _firstUsed;
+
+    static Rectangle()
+    {
+        _firstUsed = DateTime.Now;
+    }
 
     public Rectangle(int width, int height)
     {
         Width = GetLengthOrDefault(width, nameof(Width));
         _height = GetLengthOrDefault(height, nameof(_height));
+        ++CountOfInstances;
     }
 
     private int _height;
